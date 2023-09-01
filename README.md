@@ -1,16 +1,15 @@
-### Hi there 👋
+### Soy Andrea ✨ 
 
-<!--
-**AndreaVazquez22/andreavazquez22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+FrontEnd Developer 💻 egresada de Laboratoria 💛 con hambre se aprendizaje constante, fiel creyente de que estamos en este mundo para trascender 🍾
 
-Here are some ideas to get you started:
+Emprendedora de corazón ✂️ de mi marca personal de lencería la cual me ha permitido desarrollar multiples hábilidades para enfrentarme al mundo laboral
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```Javascript
+const = andreaVazquez {
+  pronouns: "she" | "her"
+  code: [Javascript, HTML, CSS, ]
+  tools: [Node, Figma, GitHub, GIT, React, Jest, Firebase]
+
+}
+```
+
